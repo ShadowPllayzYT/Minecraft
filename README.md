@@ -5,3 +5,4 @@ Use a launcher that supports import zip (Like gdlaucher)
 Go to file you want, Simply click on it and copy the address
 then paste it where you would insert zip
 Check example.png for a idea
+Read: READMEME.lol next
